@@ -1,4 +1,9 @@
 # Correlation and regression for data analysis
+
+# Developed By : S Midhun
+
+# Reg. No. : 212223240087
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -25,5 +30,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
+
+![correlation](https://github.com/23003250/Correlation_Regression/assets/139331462/a187f995-2945-4f22-874d-b3aac6a036c4)
+
 
 # Output 
